@@ -1,0 +1,6 @@
+{
+  "name": "AGNUS GROUP OF COMPANY",
+  "description": "Official corporate portal for Agnus Group of Company, Dindigul, Tamil Nadu. Registrations, leadership, team, corporate events gallery, and contact information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
